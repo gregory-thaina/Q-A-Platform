@@ -1,0 +1,15 @@
+{
+  "name": "perguntas-e-respostas",
+  "version": "1.0.0",
+  "description": "Plataforma feita para fins de estudo. Seu objetivo é possibilitar a publicação de perguntas e respostas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregory T. do E. Santo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
